@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Smart Calculator with Java/*
+!/Smart Calculator with Java/task/
+/Smart Calculator with Java/task/*
+!/Smart Calculator with Java/task/src
